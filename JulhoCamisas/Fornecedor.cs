@@ -1,13 +1,13 @@
 namespace JulhoCamisas;
 
-public partial class Fornecedor{
+public class Fornecedor : Objeto{
 
     Int64 Id;
+    int Preco;
     String Nome;
     String Email;
     String Endereco;
     String Produto;
-    int Preco;
 
 //----------------------------------------------------
 
@@ -21,6 +21,11 @@ public partial class Fornecedor{
     public void SetId(Int64 i)
     {
         Id = i;
+    }
+
+    public void SetPreco(int p)
+    {
+        Preco = p;
     }
 
     public void SetNome(String n)
@@ -43,16 +48,16 @@ public partial class Fornecedor{
         Produto = p;
     }
 
-    public void SetPreco(int p)
-    {
-        Preco = p;
-    }
-
 //----------------------------------------------------
 
     public Int64 GetId()
     {
         return Id;
+    }
+
+    public int GetPreco()
+    {
+        return Preco;
     }
     
     public String GetNome()
@@ -72,11 +77,6 @@ public partial class Fornecedor{
     public String GetProduto()
     {
         return Produto;
-    }
-
-    public int GetPreco()
-    {
-        return Preco;
     }
 
 }

@@ -1,10 +1,13 @@
+using JulhoCamisas;
+
 namespace Julhocamisas;
 
-public partial class Funcionario{
+public class Funcionario : Objeto{
 
     String Nome;
     String Email;
     String Endereco;
+    Int64 Id;
 
     public Funcionario()
     {
@@ -26,6 +29,11 @@ public partial class Funcionario{
         Endereco = e;
     }
 
+    public void SetId(Int64 i)
+    {
+        Id = i;
+    }
+
     public String GetNome()
     {
         return Nome;
@@ -39,6 +47,11 @@ public partial class Funcionario{
     public String GetEndereco()
     {
         return Endereco;
+    }
+
+    public Int64 GetId()
+    {
+        return Id;
     }
 
 }

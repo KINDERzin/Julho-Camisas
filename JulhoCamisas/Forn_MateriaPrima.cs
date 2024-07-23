@@ -1,10 +1,11 @@
 namespace JulhoCamisas;
 
-public partial class Forn_MateriaPrima{
+public class Forn_MateriaPrima : Objeto{
 
     String Fornecedor;
     String MateriaPrima;
     int Preco;
+    Int64 Id;
 
     public Forn_MateriaPrima()
     {
@@ -21,6 +22,11 @@ public partial class Forn_MateriaPrima{
         MateriaPrima = m;
     }
 
+    public void SetId(Int64 i)
+    {
+        Id = i;
+    }
+
     public String GetFornecedor()
     {
         return Fornecedor;
@@ -29,5 +35,10 @@ public partial class Forn_MateriaPrima{
     public String GetMateriaPrima()
     {
         return MateriaPrima;
+    }
+
+    public Int64 GetId()
+    {
+        return Id;
     }
 }

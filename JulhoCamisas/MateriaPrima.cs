@@ -1,12 +1,13 @@
 namespace JulhoCamisas;
 
-public partial class Materia_Prima{
+public  class MateriaPrima : Objeto{
 
     String Fornecedor;
-    String MateriaPrima;
+    String Materia_Prima;
     int Preco;
+    Int64 Id;
 
-    public Materia_Prima()
+    public MateriaPrima()
     {
 
     }
@@ -18,12 +19,22 @@ public partial class Materia_Prima{
 
     public void SetMateriaPrima(String m)
     {
-        MateriaPrima = m;
+        Materia_Prima = m;
     }
 
     public void SetPreco(int p)
     {
         Preco = p;
+    }
+
+    public void SetIdProduto(Int64 i)
+    {
+        Id = i;
+    }
+
+    public Int64 GetIdVenda()
+    {
+        return Id;
     }
 
     public String GetFornecedor()
@@ -32,7 +43,7 @@ public partial class Materia_Prima{
     }
     public String GetMateriaPrima()
     {
-        return MateriaPrima;
+        return Materia_Prima;
     }
     public int GetPreco()
     {

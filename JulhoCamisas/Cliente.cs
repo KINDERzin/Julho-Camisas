@@ -1,6 +1,6 @@
 namespace  JulhoCamisas;
 
-public partial class Cliente{
+public class Cliente : Objeto{
 
     Int64 Id;
     String Nome;
