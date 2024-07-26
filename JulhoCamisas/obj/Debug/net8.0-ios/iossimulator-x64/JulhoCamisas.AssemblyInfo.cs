@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JulhoCamisas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2350f8fa9452a76301dca7514b678edf4acae889")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8580b9f9670b9e6ac32d28bea68a56cd5a3aa74a")]
 [assembly: System.Reflection.AssemblyProductAttribute("JulhoCamisas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JulhoCamisas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

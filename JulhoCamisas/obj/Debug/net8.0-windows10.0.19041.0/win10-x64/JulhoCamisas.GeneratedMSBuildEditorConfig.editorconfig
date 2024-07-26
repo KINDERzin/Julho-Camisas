@@ -24,11 +24,59 @@ build_metadata.AdditionalFiles.ManifestResourceName = JulhoCamisas.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/Aluno/Julho-Camisas/JulhoCamisas/CadastrarCliente.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JulhoCamisas.CadastrarCliente.xaml
+build_metadata.AdditionalFiles.TargetPath = CadastrarCliente.xaml
+build_metadata.AdditionalFiles.RelativePath = CadastrarCliente.xaml
+
+[C:/Users/Aluno/Julho-Camisas/JulhoCamisas/CadastrarFornecedor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JulhoCamisas.CadastrarFornecedor.xaml
+build_metadata.AdditionalFiles.TargetPath = CadastrarFornecedor.xaml
+build_metadata.AdditionalFiles.RelativePath = CadastrarFornecedor.xaml
+
+[C:/Users/Aluno/Julho-Camisas/JulhoCamisas/CadastrarMateriaPrima.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JulhoCamisas.CadastrarMateriaPrima.xaml
+build_metadata.AdditionalFiles.TargetPath = CadastrarMateriaPrima.xaml
+build_metadata.AdditionalFiles.RelativePath = CadastrarMateriaPrima.xaml
+
+[C:/Users/Aluno/Julho-Camisas/JulhoCamisas/DeletarFornecedor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JulhoCamisas.DeletarFornecedor.xaml
+build_metadata.AdditionalFiles.TargetPath = DeletarFornecedor.xaml
+build_metadata.AdditionalFiles.RelativePath = DeletarFornecedor.xaml
+
+[C:/Users/Aluno/Julho-Camisas/JulhoCamisas/ExcluirContaCliente.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JulhoCamisas.ExcluirContaCliente.xaml
+build_metadata.AdditionalFiles.TargetPath = ExcluirContaCliente.xaml
+build_metadata.AdditionalFiles.RelativePath = ExcluirContaCliente.xaml
+
+[C:/Users/Aluno/Julho-Camisas/JulhoCamisas/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JulhoCamisas.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Login.xaml
+
 [C:/Users/Aluno/Julho-Camisas/JulhoCamisas/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = JulhoCamisas.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Aluno/Julho-Camisas/JulhoCamisas/PerfilCliente.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JulhoCamisas.PerfilCliente.xaml
+build_metadata.AdditionalFiles.TargetPath = PerfilCliente.xaml
+build_metadata.AdditionalFiles.RelativePath = PerfilCliente.xaml
+
+[C:/Users/Aluno/Julho-Camisas/JulhoCamisas/PerfilFornecedor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JulhoCamisas.PerfilFornecedor.xaml
+build_metadata.AdditionalFiles.TargetPath = PerfilFornecedor.xaml
+build_metadata.AdditionalFiles.RelativePath = PerfilFornecedor.xaml
 
 [C:/Users/Aluno/Julho-Camisas/JulhoCamisas/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
